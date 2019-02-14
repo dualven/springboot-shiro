@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringbootShiroApplication",
+            "request": "launch",
+            "mainClass": "com.study.SpringbootShiroApplication",
+            "projectName": "springboot-shiro"
+        }
+    ]
+}
